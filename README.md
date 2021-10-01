@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Thalita Borges 
 
 - 💻 Análise e Desenvolvimento de Sistemas
-- 🎓 Gama Academy - Bootcamp Desenvolvedor(a) Web Full-Stack
+- 🎓 Alura - Bootcamp Desenvolvedor(a) Java
 - 📍  São Paulo, SP
 - 😄 Pronouns: ela/dela
 
