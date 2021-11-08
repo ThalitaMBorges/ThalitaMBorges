@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Thalita Borges 
 
-- ♨️ IT  DEveloper no Banco Santander 
+- ♨️ IT  Developer no Banco Santander 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Alura - Bootcamp Desenvolvedor(a) Java
 - 📍  São Paulo, SP
