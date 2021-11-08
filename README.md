@@ -1,6 +1,7 @@
 ### Oiii! Eu sou a Thalita Borges 
 
-- 💻 Análise e Desenvolvimento de Sistemas
+- ♨️ IT  DEveloper no Banco Santander 
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Alura - Bootcamp Desenvolvedor(a) Java
 - 📍  São Paulo, SP
 - 😄 Pronouns: ela/dela
